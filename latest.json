@@ -1,10 +1,10 @@
 {
   "version": "1.8.0",
   "notes": "LouxosLab 1.8.0",
-  "pub_date": "2026-10-21T07:24:17Z",
+  "pub_date": "2026-10-21T07:29:30Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbnRIYlJOZUhWdFE0QzRyQ0lGN2pzekhsbjAxZ0RrREdiZkk4Y2srSUNMWmhwSjJzdThSemxHOWVvc1gvQnBQWnRoNG1oYmZDOGhDOVRZUmZGckpLS1A1NjN0cFBpZ1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTY3NDU2CWZpbGU6TG91eG9zTGFiXzEuOC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjguMApsV0JMM3pMYUpzZHhWT3hWUGxnWFczbUhPRzNZRzlUUSs4M2s4U0pnUXZKOEdjNHdwSTBGZmZWZFFMcXFTUEhDL2Z5KzR1eTllRDJLS25VUXMzNmdCZz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbnRIYlJOZUhWdGZsUW0yT0pBQ01MbGxvYVRoa3NxTnJNSDJycTBvcmJQQ3VXeUhhdFNYNUthb2FDS05JZFh4WW52dGxCM1M4SGZJWnFPL0lpaGV5U3BTc0pQRkRYV3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTY3NzY3CWZpbGU6TG91eG9zTGFiXzEuOC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjguMApvLzJzckZOSndyQ1NuWERFa1hhdDVMK0c5RkFiZ2x0TS8rL25OSVMzdHV3VGJMMURIaUFqSzNuR3N6VW5nOTVyM3czM0xyRDZGRWIwN0U4M05qTjdEQT09Cg==",
       "url": "https://raw.githubusercontent.com/Louxos/louxoslab-releases/main/windows/LouxosLab_1.8.0_x64-setup.exe"
     }
   }
